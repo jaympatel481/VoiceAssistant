@@ -1,4 +1,6 @@
 # VoiceAssistant
+This program uses your google calendar to tell all the events of a day or date asked by you. And it can also create and open a notepad file if asked to "note down" anything. 
+
 Requirements to run the program:
 python3
 1. pip
@@ -10,3 +12,4 @@ python3
 
 When running it for the first time, allow the app to access your google account through the link that the program outputs. 
 Use python3 VoiceAssistant.py to run in terminal.
+After running, say "hey mark" to activate it and either ask about your schedule for any day or write something in notepad. To do both, say "hey mark" again after one task and it will continue to listen without exitting.
